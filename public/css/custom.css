@@ -1,0 +1,50 @@
+#home h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+#home h3 {
+  font-family: Arial;
+  line-height: 140%;
+}
+
+#home h3 span {
+  color: #0f0f0f;
+}
+
+#page-top .content-ct:first-child {
+  padding-bottom: 0px;
+}
+
+#page-top .content-ct:last-child {
+  padding-top: 0px;
+}
+
+#page-top {
+  font-family: Arial;
+}
+
+#description h3 {
+  text-align: center;
+}
+
+#info h2 {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+
+#info {
+  padding-bottom: 100px;
+}
+
+.hero-header {
+  background-color: #00aaa0;
+}
+
+.tickets {
+  background-color: #FFB85F;
+}
+.footer-credit {
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
