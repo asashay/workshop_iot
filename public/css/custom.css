@@ -27,6 +27,11 @@
   text-align: center;
 }
 
+#description h2 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 #info h2 {
   padding-top: 50px;
   padding-bottom: 40px;
@@ -34,6 +39,8 @@
 
 #info {
   padding-bottom: 100px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .hero-header {
@@ -46,8 +53,4 @@
 .footer-credit {
   padding-top: 15px;
   padding-bottom: 5px;
-}
-
-body {
-  overflow-x: hidden;
 }
