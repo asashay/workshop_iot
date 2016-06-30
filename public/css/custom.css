@@ -21,6 +21,7 @@
 
 #page-top {
   font-family: Arial;
+  overflow-x: hidden;
 }
 
 #description h3 {
