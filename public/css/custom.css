@@ -1,5 +1,4 @@
 #home h1 {
-  font-size: 70px;
   font-weight: bold;
 }
 
@@ -47,4 +46,8 @@
 .footer-credit {
   padding-top: 15px;
   padding-bottom: 5px;
+}
+
+body {
+  overflow-x: hidden;
 }
