@@ -109,7 +109,7 @@ a:hover, a:focus, a:active, a:visited {
 
 .hero-header {
 	background: #016cc7;
-	min-height: 600px;
+	min-height: 650px;
 	padding: 5em;
 	color: #fff;
 }
@@ -298,6 +298,32 @@ ul.footer-menu li a:hover {
 ======================================== */
 
 /* Mobile */
+@media (min-width: 400px) and (max-width: 600px) {
+  h3 {
+    font-size: 18px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 400px) {
+  h3 {
+    font-size: 16px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 320px) {
+  h3 {
+    font-size: 14px;
+  }
+  h2 {
+    font-size: 18px;
+  }
+}
 
 @media (max-width: 767px) {
     .hero-header {
